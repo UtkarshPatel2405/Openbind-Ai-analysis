@@ -1,0 +1,421 @@
+{
+  "global_screening": {
+    "pred_aev_plig": {
+      "spearman_rho": 0.22360262653194213,
+      "spearman_p": 6.031781385462023e-07,
+      "spearman_ci_lower": 0.14100260958917712,
+      "spearman_ci_upper": 0.30040580270780803,
+      "pearson_r": 0.24112921268349097,
+      "pearson_p": 6.935525306779917e-08,
+      "pearson_ci_lower": 0.1715153097593122,
+      "pearson_ci_upper": 0.3064962114089559,
+      "N": 488
+    },
+    "pred_aqaffinity": {
+      "spearman_rho": 0.11357753122869835,
+      "spearman_p": 0.012049057255413059,
+      "spearman_ci_lower": 0.028550063933884394,
+      "spearman_ci_upper": 0.20137391946013722,
+      "pearson_r": 0.120862160435911,
+      "pearson_p": 0.007520087883765158,
+      "pearson_ci_lower": 0.03235447029903032,
+      "pearson_ci_upper": 0.2054285523666487,
+      "N": 488
+    },
+    "pred_boltz_2": {
+      "spearman_rho": 0.4002272088598656,
+      "spearman_p": 3.3772703422171566e-20,
+      "spearman_ci_lower": 0.3216638158014497,
+      "spearman_ci_upper": 0.47181578594261275,
+      "pearson_r": 0.40999587715769803,
+      "pearson_p": 3.3039446617513137e-21,
+      "pearson_ci_lower": 0.3357826388583404,
+      "pearson_ci_upper": 0.4799289149469331,
+      "N": 488
+    },
+    "pred_clogp": {
+      "spearman_rho": 0.1708540985684186,
+      "spearman_p": 0.0001491187327660609,
+      "spearman_ci_lower": 0.07779505860794297,
+      "spearman_ci_upper": 0.2546755101692303,
+      "pearson_r": 0.1618076808862041,
+      "pearson_p": 0.000332000891035082,
+      "pearson_ci_lower": 0.08051988909275663,
+      "pearson_ci_upper": 0.24857280542239638,
+      "N": 488
+    },
+    "pred_gnina_crystal": {
+      "spearman_rho": 0.4545246949978691,
+      "spearman_p": 2.985812967784992e-26,
+      "spearman_ci_lower": 0.37799888711035345,
+      "spearman_ci_upper": 0.5214293420675717,
+      "pearson_r": 0.4003739802764211,
+      "pearson_p": 3.263197974752073e-20,
+      "pearson_ci_lower": 0.3316841427216387,
+      "pearson_ci_upper": 0.4690375755698056,
+      "N": 488
+    },
+    "pred_molecular_weight": {
+      "spearman_rho": 0.4854573469718112,
+      "spearman_p": 3.212390133004887e-30,
+      "spearman_ci_lower": 0.4143407144229323,
+      "spearman_ci_upper": 0.5518146660161799,
+      "pearson_r": 0.5416771006617991,
+      "pearson_p": 1.4778498969313468e-38,
+      "pearson_ci_lower": 0.48207704915029653,
+      "pearson_ci_upper": 0.5958243228344449,
+      "N": 488
+    },
+    "pred_smina_crystal": {
+      "spearman_rho": 0.25254852311917814,
+      "spearman_p": 1.5438188211451316e-08,
+      "spearman_ci_lower": 0.17695591609807934,
+      "spearman_ci_upper": 0.33606432918927454,
+      "pearson_r": 0.1524770889721426,
+      "pearson_p": 0.0007262527367183098,
+      "pearson_ci_lower": 0.09698110504511573,
+      "pearson_ci_upper": 0.24346914763183755,
+      "N": 488
+    },
+    "iptm_af3": {
+      "spearman_rho": 0.0984741417537339,
+      "spearman_p": 0.054795670698999245,
+      "spearman_ci_lower": 0.002649958460219141,
+      "spearman_ci_upper": 0.19669141816081992,
+      "pearson_r": 0.10793168660700721,
+      "pearson_p": 0.035206461948135113,
+      "pearson_ci_lower": 0.018296942958109293,
+      "pearson_ci_upper": 0.19946523304963765,
+      "N": 381
+    },
+    "iptm_boltz-1": {
+      "spearman_rho": -0.07755207849335274,
+      "spearman_p": 0.13230902923321772,
+      "spearman_ci_lower": -0.17518323213761505,
+      "spearman_ci_upper": 0.024937834409902743,
+      "pearson_r": -0.163892077030298,
+      "pearson_p": 0.0013861466262684715,
+      "pearson_ci_lower": -0.2635088303752157,
+      "pearson_ci_upper": -0.06237493873124172,
+      "N": 378
+    },
+    "iptm_boltz-2": {
+      "spearman_rho": -0.19157587428123385,
+      "spearman_p": 0.00017192509954196093,
+      "spearman_ci_lower": -0.2934659091901292,
+      "spearman_ci_upper": -0.08815119064155846,
+      "pearson_r": -0.2380140519259002,
+      "pearson_p": 2.704648966241285e-06,
+      "pearson_ci_lower": -0.33345000429002875,
+      "pearson_ci_upper": -0.13830992870495032,
+      "N": 380
+    },
+    "iptm_of3p2": {
+      "spearman_rho": -0.3252004481180938,
+      "spearman_p": 7.798406013900553e-11,
+      "spearman_ci_lower": -0.4118440693198605,
+      "spearman_ci_upper": -0.23084067993328616,
+      "pearson_r": -0.33129393786584743,
+      "pearson_p": 3.275786500563467e-11,
+      "pearson_ci_lower": -0.4148132104113981,
+      "pearson_ci_upper": -0.2487793271802493,
+      "N": 381
+    },
+    "iptm_of3p2_ft": {
+      "spearman_rho": 0.35312543276305713,
+      "spearman_p": 1.246542235512579e-12,
+      "spearman_ci_lower": 0.2572430221583289,
+      "spearman_ci_upper": 0.43833334890923525,
+      "pearson_r": 0.32329723578717323,
+      "pearson_p": 1.0184734305660022e-10,
+      "pearson_ci_lower": 0.23094426137802423,
+      "pearson_ci_upper": 0.405112069151263,
+      "N": 381
+    },
+    "iptm_protenix": {
+      "spearman_rho": 0.38830280072723505,
+      "spearman_p": 3.684553337984173e-15,
+      "spearman_ci_lower": 0.29580038189201846,
+      "spearman_ci_upper": 0.4700217587374082,
+      "pearson_r": 0.3728613454567839,
+      "pearson_p": 5.18374907055151e-14,
+      "pearson_ci_lower": 0.2920431861140596,
+      "pearson_ci_upper": 0.449452396594003,
+      "N": 381
+    },
+    "iptm_rf3": {
+      "spearman_rho": -0.14782637078109093,
+      "spearman_p": 0.0038763074223453486,
+      "spearman_ci_lower": -0.2457715807508335,
+      "spearman_ci_upper": -0.052039256359824856,
+      "pearson_r": -0.0939963238896375,
+      "pearson_p": 0.0671986026969576,
+      "pearson_ci_lower": -0.184513826072718,
+      "pearson_ci_upper": -0.0008251718156928768,
+      "N": 380
+    },
+    "score_gnina": {
+      "spearman_rho": -0.47563039185815076,
+      "spearman_p": 6.665167953659415e-23,
+      "spearman_ci_lower": -0.549887869899779,
+      "spearman_ci_upper": -0.39329189956932864,
+      "pearson_r": -0.5039329745999542,
+      "pearson_p": 6.257051244101547e-26,
+      "pearson_ci_lower": -0.5712767256188146,
+      "pearson_ci_upper": -0.4302902000249158,
+      "N": 381
+    }
+  },
+  "pyrrolidine_local_sar": {
+    "pred_aev_plig": {
+      "spearman_rho": -0.04707170224411604,
+      "spearman_p": 0.8119931372480311,
+      "spearman_ci_lower": -0.40642388968307225,
+      "spearman_ci_upper": 0.3430302379446078,
+      "pearson_r": 0.07353244741999578,
+      "pearson_p": 0.7099960311093199,
+      "pearson_ci_lower": -0.31898320919278156,
+      "pearson_ci_upper": 0.3220823024973285,
+      "N": 28
+    },
+    "pred_aqaffinity": {
+      "spearman_rho": 0.07991242474001095,
+      "spearman_p": 0.6860469937204364,
+      "spearman_ci_lower": -0.33334708470847085,
+      "spearman_ci_upper": 0.48150345971706565,
+      "pearson_r": 0.07667032837314378,
+      "pearson_p": 0.6981817538953743,
+      "pearson_ci_lower": -0.29340069196201174,
+      "pearson_ci_upper": 0.4104603910461291,
+      "N": 28
+    },
+    "pred_boltz_2": {
+      "spearman_rho": -0.09578544061302681,
+      "spearman_p": 0.6277770988396012,
+      "spearman_ci_lower": -0.47093007525923686,
+      "spearman_ci_upper": 0.3095100343860054,
+      "pearson_r": -0.05465112075471866,
+      "pearson_p": 0.7823881376392261,
+      "pearson_ci_lower": -0.4391660827364647,
+      "pearson_ci_upper": 0.33558569954731193,
+      "N": 28
+    },
+    "pred_clogp": {
+      "spearman_rho": 0.046078004502256534,
+      "spearman_p": 0.8158942501708437,
+      "spearman_ci_lower": -0.30130101359850453,
+      "spearman_ci_upper": 0.37456954376752355,
+      "pearson_r": 0.051081013196799495,
+      "pearson_p": 0.796298621945512,
+      "pearson_ci_lower": -0.2730702355594839,
+      "pearson_ci_upper": 0.34230251025102026,
+      "N": 28
+    },
+    "pred_gnina_crystal": {
+      "spearman_rho": 0.06130268199233716,
+      "spearman_p": 0.7566480243473327,
+      "spearman_ci_lower": -0.31563083786263196,
+      "spearman_ci_upper": 0.4597493803359951,
+      "pearson_r": -0.04250401924067133,
+      "pearson_p": 0.8299600949364172,
+      "pearson_ci_lower": -0.3807796443387632,
+      "pearson_ci_upper": 0.42425352967648555,
+      "N": 28
+    },
+    "pred_molecular_weight": {
+      "spearman_rho": 0.0466201452285067,
+      "spearman_p": 0.8137653459888983,
+      "spearman_ci_lower": -0.2982294915277931,
+      "spearman_ci_upper": 0.41399505617050514,
+      "pearson_r": 0.057031800394984324,
+      "pearson_p": 0.7731480910628983,
+      "pearson_ci_lower": -0.27171716330392065,
+      "pearson_ci_upper": 0.3949032278915824,
+      "N": 28
+    },
+    "pred_smina_crystal": {
+      "spearman_rho": -0.12096332785987958,
+      "spearman_p": 0.5397748780510739,
+      "spearman_ci_lower": -0.4826716894730085,
+      "spearman_ci_upper": 0.2503572410002748,
+      "pearson_r": -0.04596580987897467,
+      "pearson_p": 0.8163349816556356,
+      "pearson_ci_lower": -0.4217669700441848,
+      "pearson_ci_upper": 0.31518155373014556,
+      "N": 28
+    },
+    "iptm_af3": {
+      "spearman_rho": -0.13371124547994487,
+      "spearman_p": 0.4975616196300223,
+      "spearman_ci_lower": -0.5317004936471045,
+      "spearman_ci_upper": 0.2949982382996989,
+      "pearson_r": -0.12329791069756446,
+      "pearson_p": 0.531920002387301,
+      "pearson_ci_lower": -0.5202881085662026,
+      "pearson_ci_upper": 0.31797999744845235,
+      "N": 28
+    },
+    "iptm_boltz-1": {
+      "spearman_rho": -0.06732348111658455,
+      "spearman_p": 0.733565084302323,
+      "spearman_ci_lower": -0.40236626474427933,
+      "spearman_ci_upper": 0.25278520323924814,
+      "pearson_r": -0.11602340849329973,
+      "pearson_p": 0.5565734476059877,
+      "pearson_ci_lower": -0.39853096330717425,
+      "pearson_ci_upper": 0.1438253227885395,
+      "N": 28
+    },
+    "iptm_boltz-2": {
+      "spearman_rho": -0.05856595511767926,
+      "spearman_p": 0.7672095372604152,
+      "spearman_ci_lower": -0.44454462129123246,
+      "spearman_ci_upper": 0.3471605070141706,
+      "pearson_r": -0.052538001119925855,
+      "pearson_p": 0.7906140312589907,
+      "pearson_ci_lower": -0.39446690822441804,
+      "pearson_ci_upper": 0.3294701826652457,
+      "N": 28
+    },
+    "iptm_of3p2": {
+      "spearman_rho": -0.24575807334428024,
+      "spearman_p": 0.20746016007751078,
+      "spearman_ci_lower": -0.5897691119106523,
+      "spearman_ci_upper": 0.18711740657779366,
+      "pearson_r": -0.2468104988854354,
+      "pearson_p": 0.20545873324735114,
+      "pearson_ci_lower": -0.5417132149036166,
+      "pearson_ci_upper": 0.11010354874876012,
+      "N": 28
+    },
+    "iptm_of3p2_ft": {
+      "spearman_rho": -0.0870279146141215,
+      "spearman_p": 0.6596836377202192,
+      "spearman_ci_lower": -0.5110547258793475,
+      "spearman_ci_upper": 0.3254547488708505,
+      "pearson_r": -0.10021065237526552,
+      "pearson_p": 0.6118957383344451,
+      "pearson_ci_lower": -0.4962233075276932,
+      "pearson_ci_upper": 0.22785814780759864,
+      "N": 28
+    },
+    "iptm_protenix": {
+      "spearman_rho": -0.04707170224411604,
+      "spearman_p": 0.8119931372480311,
+      "spearman_ci_lower": -0.4014331861807341,
+      "spearman_ci_upper": 0.33263954764853704,
+      "pearson_r": -0.06541544163450758,
+      "pearson_p": 0.7408568172693707,
+      "pearson_ci_lower": -0.40233944695444707,
+      "pearson_ci_upper": 0.2076207053288053,
+      "N": 28
+    },
+    "iptm_rf3": {
+      "spearman_rho": -0.0421455938697318,
+      "spearman_p": 0.8313736290262587,
+      "spearman_ci_lower": -0.4035809477234222,
+      "spearman_ci_upper": 0.3354365395979123,
+      "pearson_r": -0.14383611959260367,
+      "pearson_p": 0.46525643136643535,
+      "pearson_ci_lower": -0.4665113999667879,
+      "pearson_ci_upper": 0.24003340518947544,
+      "N": 28
+    },
+    "score_gnina": {
+      "spearman_rho": -0.23097974822112752,
+      "spearman_p": 0.2369753930085392,
+      "spearman_ci_lower": -0.5734881803188564,
+      "spearman_ci_upper": 0.1711343219052798,
+      "pearson_r": -0.24636042238835523,
+      "pearson_p": 0.2063130341783514,
+      "pearson_ci_lower": -0.5803605598336531,
+      "pearson_ci_upper": 0.15104998590395247,
+      "N": 28
+    }
+  },
+  "rowan_protocol_sensitivity": {
+    "xtal_nagl": {
+      "spearman_rho": 0.127199413489736,
+      "spearman_p": 0.4878410729554675,
+      "pearson_r": 0.2082478008321193,
+      "pearson_p": 0.25272626837819,
+      "r2_score": -0.2241731732335026,
+      "N": 32
+    },
+    "docking_nagl": {
+      "spearman_rho": 0.3632697947214076,
+      "spearman_p": 0.0409914872198302,
+      "pearson_r": 0.4174367910761251,
+      "pearson_p": 0.0174491477290887,
+      "r2_score": 0.0019300244978517,
+      "N": 32
+    },
+    "docking_am1bcc": {
+      "spearman_rho": 0.0296920821114369,
+      "spearman_p": 0.8718441095309661,
+      "pearson_r": 0.0841558917902462,
+      "pearson_p": 0.6470019712760642,
+      "r2_score": -0.1705292655389756,
+      "N": 32
+    },
+    "docking_am1bcc_4ns": {
+      "spearman_rho": 0.2041975996111648,
+      "spearman_p": 0.2622789783613496,
+      "pearson_r": 0.2209301322527375,
+      "pearson_p": 0.2243162362298482,
+      "r2_score": -0.0774896296617357,
+      "N": 32
+    },
+    "docking_am1bcc_350local": {
+      "spearman_rho": 0.3306451612903225,
+      "spearman_p": 0.0645488507225826,
+      "pearson_r": 0.3811848752161962,
+      "pearson_p": 0.0313554244507843,
+      "r2_score": 0.0849778434145285,
+      "N": 32
+    },
+    "docking_am1bcc_0local": {
+      "spearman_rho": 0.6645894428152492,
+      "spearman_p": 3.3470688630961536e-05,
+      "pearson_r": 0.6388860164352442,
+      "pearson_p": 8.304318683693888e-05,
+      "r2_score": 0.3510766477312246,
+      "N": 32
+    }
+  },
+  "ensemble_combinations": {
+    "ensemble_pred_boltz_2_pred_gnina_crystal": {
+      "spearman_rho": 0.4693792331577077,
+      "spearman_p": 4.167621372033492e-28,
+      "spearman_ci_lower": 0.3974267735809104,
+      "spearman_ci_upper": 0.5343717773418252,
+      "pearson_r": 0.48214856886986224,
+      "pearson_p": 8.93056066398953e-30,
+      "pearson_ci_lower": 0.4211647291244009,
+      "pearson_ci_upper": 0.5423320246432598,
+      "N": 488
+    },
+    "ensemble_pred_molecular_weight_pred_boltz_2": {
+      "spearman_rho": 0.4777760172292142,
+      "spearman_p": 3.3908949910998637e-29,
+      "spearman_ci_lower": 0.4027266247795845,
+      "spearman_ci_upper": 0.5454990278256666,
+      "pearson_r": 0.5252463211745235,
+      "pearson_p": 5.876964383291382e-36,
+      "pearson_ci_lower": 0.46551833947752896,
+      "pearson_ci_upper": 0.5830343488044678,
+      "N": 488
+    },
+    "ensemble_iptm_of3p2_ft_pred_gnina_crystal": {
+      "spearman_rho": 0.5170492574606392,
+      "spearman_p": 1.9713317946695452e-27,
+      "spearman_ci_lower": 0.4376192596056141,
+      "spearman_ci_upper": 0.5921150736615467,
+      "pearson_r": 0.47848332938414834,
+      "pearson_p": 3.3981772636866444e-23,
+      "pearson_ci_lower": 0.40830913399434904,
+      "pearson_ci_upper": 0.5441757573794169,
+      "N": 381
+    }
+  }
+}

@@ -1,0 +1,6 @@
+# OpenBind Benchmark ignore files
+EV-A71_2A_benchmark/
+openbind_ev_a71_rbfe/
+__pycache__/
+*.png
+.DS_Store
